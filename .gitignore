@@ -1,0 +1,10 @@
+# Ignore the R files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Ignore the script of scrapping 
+01_Scrapping.R
+
+
